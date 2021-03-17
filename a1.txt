@@ -6,3 +6,5 @@ line3
 line4
 
 cambiando el mismo archivo - intento 2
+line5
+line6
