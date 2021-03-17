@@ -1,4 +1,9 @@
 line1
 line2
+<<<<<<< HEAD
 
 cambiando el mismo archivo 
+=======
+line3
+line4
+>>>>>>> 824656a0206cfadbb2139199fe06169a0299d330
